@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment variables — NEVER commit this
+.env.local
+.env
+
+# Build output
+dist/
+
+# Editor / OS artefacts
+.DS_Store
+Thumbs.db
+*.log
